@@ -8,6 +8,7 @@
 
 <h2 align="center"> My skils:</h2>
 <h3 align="left">Database</h3>
+
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <h3>Language</h3>
