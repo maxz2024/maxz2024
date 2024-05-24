@@ -25,6 +25,4 @@
 
 <h3>Tools</h3>
 
-![Static Badge](https://img.shields.io/badge/my-backend?style=for-the-badge&logo=%D0%9C%D0%BE%D0%B9%20%D0%B1%D0%B5%D0%BA%D0%B5%D0%BD%D0%B4&logoColor=green&label=%20%D0%9C%D0%BE%D0%B9%20%D0%B1%D0%B5%D0%BA%D0%B5%D0%BD%D0%B4&link=https%3A%2F%2Fpindie-backend-maxz2024.nomoredomainswork.ru)
-
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
