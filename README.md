@@ -7,9 +7,6 @@
 - 📫 How to reach me <a href="https://t.me/maxz2024"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 <h2 align="center"> My skils:</h2>
-<--- <h3 align="left">Database</h3>
-
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) --->
 
 <h3>Language</h3>
 
